@@ -8,4 +8,9 @@ New-Item comandos-terminal
 git Branch
 git checkout -b david_casanova
 git status
+git add .
+git status
+git commit -m "creacion de los archivos y respondiendo todo"
+git push origin david_casanova
+
 
